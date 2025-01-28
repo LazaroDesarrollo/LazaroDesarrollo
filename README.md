@@ -3,18 +3,18 @@
 
 ![https://github.com/mouredev](https://github.com/LazaroDesarrollo/image/blob/main/principal.jpg)
 
-Soy desarrollador web con más de 3 años de experiencia. Busco nuevas experiencias y retos laborales. Soy proactivo y trabajo en equipo, aprendo rápido y me adapto perfectamente a cualquier entorno de trabajo. Sé trabajar bajo presión y siempre doy el 200% en mi trabajo. Si está buscando una persona que realmente contribuya a su empresa no dude en ponerse en contacto conmigo.
+Mi nombre es Lázaro Guerra, y soy desarrollador web con más de dos años de experiencia creando soluciones digitales efectivas y funcionales. Mi pasión por el desarrollo web nació de mi curiosidad por la tecnología y mi inclinación autodidacta, lo que me ha permitido adquirir habilidades prácticas en desarrollo Agile, trabajo en equipo, resolución de problemas y plataformas como WordPress.
 
 # Experiencias:
 
 ### Desarrollador y diseñador web
-### ABcupon.com`
-Mar 2023 - (4 Meses)</br>
-Creación y desarrollo de una plataforma de plataforma con WordPress, HTML y CSS.</br>
-Implementación de SEO.</br>
-Incremento de las ventas online en un 50%.</br>
-Creación y posicionamiento de marca.</br>
-Creación e implementación de estrategias estrategias publicitarias.</br>
+### ABCupon.com · Jornada completa
+mar. 2023 - sept. 2023 · 7 meses</br>
+Diseñé y desarrollé plataformas de comercio electrónico para terceros utilizando WordPress, HTML y CSS, adaptando cada proyecto a las necesidades del cliente, asegurando interfaces funcionales y atractivas.</br>
+Implementé estrategias avanzadas de SEO, logrando optimizar la visibilidad y el tráfico orgánico de los sitios web.</br>
+Aumenté las ventas online en un 50% mediante la optimización de la experiencia de usuario, integración de herramientas de análisis y mejora continua del rendimiento de las plataformas.</br>
+Lideré la creación y posicionamiento de marcas, desarrollando identidades visuales y estrategias digitales efectivas que impulsaron el reconocimiento de los negocios en línea.</br>
+Creación e implementación de estrategias publicitarias.</br>
 
 ### Desarrollador Web
 ### Lets Nurture
