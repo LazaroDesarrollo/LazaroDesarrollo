@@ -9,20 +9,22 @@ Mi nombre es Lázaro Guerra, y soy desarrollador web con más de dos años de ex
 
 ### Desarrollador y diseñador web
 ### ABCupon.com · Jornada completa
-mar. 2023 - sept. 2023 · 7 meses</br>
+# mar. 2023 - sept. 2023 · 7 meses</br>
 Diseñé y desarrollé plataformas de comercio electrónico para terceros utilizando WordPress, HTML y CSS, adaptando cada proyecto a las necesidades del cliente, asegurando interfaces funcionales y atractivas.</br>
 Implementé estrategias avanzadas de SEO, logrando optimizar la visibilidad y el tráfico orgánico de los sitios web.</br>
 Aumenté las ventas online en un 50% mediante la optimización de la experiencia de usuario, integración de herramientas de análisis y mejora continua del rendimiento de las plataformas.</br>
 Lideré la creación y posicionamiento de marcas, desarrollando identidades visuales y estrategias digitales efectivas que impulsaron el reconocimiento de los negocios en línea.</br>
 Creación e implementación de estrategias publicitarias.</br>
+# Aptitudes: PHP · WordPress · HTML5 · Hojas de estilos en cascada (CSS) · JavaScript · Node.js · Desarrollo web · Diseño web · Comercio electrónico
 
-### Desarrollador Web
-### Lets Nurture
-Mar 2022 - Mar 2023 (1 año)</br>
-Desarrollo y creación de sitios web.</br>
-sitios web y directorios con WordPress, HTML, CSS y JS.</br>
-Recopilación y creación de bases de datos de profesionales de diferentes sectores.</br>
-Creación de ecommerce con WordPress, HTML y CSS.</br>
+### Desarrollador de WordPress
+### Let's Nurture · Jornada completa
+# mar. 2022 - mar. 2023 · 1 año 1 mes</br>
+Diseñé y desarrollé sitios web desde cero, garantizando soluciones personalizadas y adaptadas a las necesidades específicas de los clientes.</br>
+Implementé estrategias de SEO desde la fase inicial, optimizando la estructura y contenido del sitio para maximizar su visibilidad en motores de búsqueda.</br>
+Utilicé tecnologías como WordPress, HTML, CSS y PHP para crear sitios web dinámicos, funcionales y escalables, asegurando una experiencia de usuario fluida y atractiva.</br>
+Realicé pruebas, mantenimiento y optimización continua para garantizar el alto rendimiento, seguridad y compatibilidad en diferentes dispositivos y navegadores.</br>
+# Aptitudes: PHP · WordPress · HTML5 · Hojas de estilos en cascada (CSS)
 
 ### Desarrollador Web
 ### CubaDev
