@@ -1,14 +1,14 @@
 # Hola, mi nombre es Lazaro Guerra 👋
 ### Soy Desarrollador Frontend profesional desde hace más de tres años.
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![[https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)](https://github.com/LazaroDesarrollo/image/blob/main/close-up-image-programer-working-his-desk-office.jpg)
 
 Soy desarrollador web con más de 3 años de experiencia. Busco nuevas experiencias y retos laborales. Soy proactivo y trabajo en equipo, aprendo rápido y me adapto perfectamente a cualquier entorno de trabajo. Sé trabajar bajo presión y siempre doy el 200% en mi trabajo. Si está buscando una persona que realmente contribuya a su empresa no dude en ponerse en contacto conmigo.
 
 # Experiencias:
 
 ### Desarrollador y diseñador web
-### ABcupon.com
+### ABcupon.com`
 Mar 2023 - (4 Meses)</br>
 Creación y desarrollo de una plataforma de plataforma con WordPress, HTML y CSS.</br>
 Implementación de SEO.</br>
@@ -40,8 +40,6 @@ Corrección de estilos en la aplicación web.</br>
 Implementación de nuevas funcionalidades con HTML, CSS y JS.</br>
 
 ## Tecnologías:
-![YouTube Video Likes](https://img.shields.io/youtube/likes/:videoId)
-
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]
