@@ -1,7 +1,7 @@
 # Hola, mi nombre es Lazaro Guerra 👋
 ### Soy Desarrollador Frontend profesional desde hace más de tres años.
 
-![https://github.com/mouredev](https://github.com/LazaroDesarrollo/image/blob/main/programming-background-collage.jpg)
+![https://github.com/mouredev](https://github.com/LazaroDesarrollo/image/blob/main/principal.jpg)
 
 Soy desarrollador web con más de 3 años de experiencia. Busco nuevas experiencias y retos laborales. Soy proactivo y trabajo en equipo, aprendo rápido y me adapto perfectamente a cualquier entorno de trabajo. Sé trabajar bajo presión y siempre doy el 200% en mi trabajo. Si está buscando una persona que realmente contribuya a su empresa no dude en ponerse en contacto conmigo.
 
